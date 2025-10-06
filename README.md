@@ -1,1 +1,1 @@
-# Demo
+# calculator-template
